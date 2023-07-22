@@ -1,7 +1,7 @@
 # Replicated State Machine Tutorial for SecurityCamp 2023 Y3 Track
 
 This repository is the tutorial for Seccamp 2023 pre-learning.
-For now, successful execution of task 4 is confirmed.
+For now, task 4 is successfully executed.
 The server can receive RPC requests from clients to change server-local state, and replicate those commands to the replication server.
 Details of tasks are written [here](https://github.com/secamp-y3/tutorial.go).
 
